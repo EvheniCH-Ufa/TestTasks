@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>NumberButton.qml</file>
+        <file>Display.qml</file>
+        <file>fonts/Open_Sans.ttf</file>
+        <file>SecretPanel.qml</file>
+        <file>FormulaResult.qml</file>
+    </qresource>
+</RCC>
